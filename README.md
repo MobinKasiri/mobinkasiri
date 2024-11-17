@@ -14,4 +14,4 @@ Committed to continuous improvement and staying updated with the latest industry
 ---
 
 ## 📫 Let's Connect
-Feel free to reach out or visit my [LinkedIn](https://www.linkedin.com/in/mobinkasiri) profile for collaborations and opportunities.  
+Feel free to reach out via email at **[isthemobin@gmail.com](mailto:isthemobin@gmail.com)** or visit my [LinkedIn](https://www.linkedin.com/in/mobinkasiri) profile for collaborations and opportunities.
