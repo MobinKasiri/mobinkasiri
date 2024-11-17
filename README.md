@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mobin Kasiri 👋
 
-<!--
-**MobinKasiri/mobinkasiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-End Developer** | Based in Tehran, Iran  
+**Email**: isthemobin@gmail.com | **[LinkedIn](https://www.linkedin.com/in/mobinkasiri)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Front-End Developer with 4 years of experience building intuitive and responsive web applications. Known for strong problem-solving skills, attention to detail, and a passion for creating seamless user experiences.
+
+Committed to continuous improvement and staying updated with the latest industry practices. Excels in collaborative environments, meeting deadlines, and contributing to impactful projects. Always eager to take on new challenges and grow as a developer.
+
+---
+
+## 📫 Let's Connect
+Feel free to reach out or visit my [LinkedIn](https://www.linkedin.com/in/mobinkasiri) profile for collaborations and opportunities.  
