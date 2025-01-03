@@ -7,9 +7,7 @@
 
 ## About Me
 
-Front-End Developer with 4 years of experience building intuitive and responsive web applications. Known for strong problem-solving skills, attention to detail, and a passion for creating seamless user experiences.
-
-Committed to continuous improvement and staying updated with the latest industry practices. Excels in collaborative environments, meeting deadlines, and contributing to impactful projects. Always eager to take on new challenges and grow as a developer.
+I’m a Front-End Developer with several years of professional experience, specializing in building intuitive and responsive web applications. With strong problem-solving skills and attention to detail, I am passionate about creating seamless user experiences and optimizing app performance. I am committed to continuous learning and improvement, always eager to overcome challenges and deliver high-quality solutions.
 
 ---
 
